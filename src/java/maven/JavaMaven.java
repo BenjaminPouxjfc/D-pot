@@ -9,6 +9,7 @@ package java.maven;
  *
  * @author bpoux
  * rajout de commentaires
+ *
  */
 public class JavaMaven {
 
